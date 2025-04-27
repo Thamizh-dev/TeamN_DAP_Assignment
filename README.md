@@ -1,12 +1,5 @@
 # 🕵️‍♂️ Crime Data Analysis in Los Angeles (2013–2024) 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ## 📖 Project Overview
 This project focuses on **analyzing crime trends** in Los Angeles from **2013 to 2024**.  
 We deep dive into crime types, hotspot locations, victim demographics, and arrest patterns to uncover actionable insights.  

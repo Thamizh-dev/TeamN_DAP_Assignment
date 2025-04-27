@@ -87,8 +87,7 @@ By investigating multiple datasets across a decade:
 ---
 
 ## 👨‍💻 Team Members
-| Name | Email |
-|:-----|:------|
+| Name |
 | **Nithish Christopher** 
 | **Kiruthika Suresh**
 | **Tamil Selvan Giri Moorthy**
